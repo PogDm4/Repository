@@ -1,0 +1,3 @@
+﻿  1_4.cpp
+C:\Users\pogla\source\repos\MAISABPO\1_4\1_4\1_4.cpp(15,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  1_4.vcxproj -> C:\Users\pogla\source\repos\MAISABPO\1_4\x64\Debug\1_4.exe

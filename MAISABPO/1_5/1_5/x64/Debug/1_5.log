@@ -1,0 +1,8 @@
+﻿  1_5.cpp
+C:\Users\pogla\source\repos\MAISABPO\1_5\1_5\1_5.cpp(30,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pogla\source\repos\MAISABPO\1_5\1_5\1_5.cpp(31,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pogla\source\repos\MAISABPO\1_5\1_5\1_5.cpp(53,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pogla\source\repos\MAISABPO\1_5\1_5\1_5.cpp(54,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pogla\source\repos\MAISABPO\1_5\1_5\1_5.cpp(80,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\pogla\source\repos\MAISABPO\1_5\1_5\1_5.cpp(81,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  1_5.vcxproj -> C:\Users\pogla\source\repos\MAISABPO\1_5\x64\Debug\1_5.exe
