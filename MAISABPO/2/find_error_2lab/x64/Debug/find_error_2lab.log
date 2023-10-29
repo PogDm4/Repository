@@ -1,0 +1,4 @@
+﻿  find_error_2lab.cpp
+C:\Users\pogla\source\repos\MAISABPO\find_error_2lab\find_error_2lab\find_error_2lab.cpp(20,11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pogla\source\repos\MAISABPO\find_error_2lab\find_error_2lab\find_error_2lab.cpp(51,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  find_error_2lab.vcxproj -> C:\Users\pogla\source\repos\MAISABPO\find_error_2lab\x64\Debug\find_error_2lab.exe
