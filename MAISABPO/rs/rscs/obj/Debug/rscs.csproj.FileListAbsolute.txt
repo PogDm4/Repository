@@ -1,0 +1,17 @@
+C:\Users\Denis\Desktop\RS\rs\rscs\bin\Debug\ElbyECC.dll
+C:\Users\Denis\Desktop\RS\rs\rscs\bin\Debug\rscs.exe.config
+C:\Users\Denis\Desktop\RS\rs\rscs\bin\Debug\rscs.exe
+C:\Users\Denis\Desktop\RS\rs\rscs\bin\Debug\rscs.pdb
+C:\Users\Denis\Desktop\RS\rs\rscs\obj\Debug\rscs.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\RS\rs\rscs\obj\Debug\rscs.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\RS\rs\rscs\obj\Debug\rscs.exe
+C:\Users\Denis\Desktop\RS\rs\rscs\obj\Debug\rscs.pdb
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\bin\Debug\ElbyECC.dll
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\bin\Debug\rscs.exe.config
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\bin\Debug\rscs.exe
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\bin\Debug\rscs.pdb
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\obj\Debug\rscs.csproj.AssemblyReference.cache
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\obj\Debug\rscs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\obj\Debug\rscs.csproj.CoreCompileInputs.cache
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\obj\Debug\rscs.exe
+C:\Users\pogla\source\repos\MAISABPO\rs\rscs\obj\Debug\rscs.pdb
